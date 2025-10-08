@@ -50,17 +50,17 @@ Dieses Board hat an mehreren Stellen im Widerspruch zu unserer gelebten Realitä
 * Aufgaben gingen nach dem Reinziehen auf das Board direkt auf ```ONHOLD```, weil wir uns erst mit dem Reinziehen auf das Board mit der Aufgabe beschäftigten und somit erst dort Unklarheiten und zu klärende Probleme aufgefallen sind
 * Dinge müssen, sobald sie geblockt werden, gegen den Strom nach links verschoben werden und verlieren obendrein ihren Status
 
-#TODO: Weiterschreiben Daraus ergibt sich rein logisch für den Teil, in der wir unsere Arbeit umsetzen,
+## Mach dir die Welt so, wie sie tatsächlich ist
+
+#TODO: Weiterschreiben
+
+![alt text](Grafiken/NeueBoards.png)
 
 ## Kanalisiere deine Eingangskanäle und norme sie
 
-#TODO: Passt das noch rein?
+#TODO: Passt das vom Storytelling her noch rein?
 
 Im Prinzip ist es egal, ob eine Anfrage über ein kundeneigenes Ticketsystem, eine E-Mail, per Anruf oder per Brieftaube reinkommt: Jede Anfrage muss gleichberechtigt und auf die gleiche Weise in das gewählte System eingepflegt werden. Wer einpflegt, das ist abhängig von der Firmen- und Teamkultur: Das eine Extrem ist, dass sich nur der PM um das Anlegen neuer Issues kümmert. Das andere ist, dass jeder die Issues anlegen darf. Und nur, weil eine Anfrage nun zu einer repräsentierbaren Karte auf einem Board geworden ist, ist noch nicht mit dem Kunden geklärt, was überhaupt das Ziel dieser Sache sein soll. Dies gilt es vorab durch den PM . Damit schafft man sich ein Umfeld, dass der PM in einem einzelnen System kunden- und projektübergreifend seine Priorisierung festlegen kann. Außerdem ist hier der PM in der Pflicht, die Issues
-
-## Wähle als Spalten die Schritte, die ihr wirklich braucht
-
-#TODO: Empfehlung, wie ein Board spaltentechnisch abstrakt auszusehen hat. Herleitung darüber, wie der jeweilige Arbeitsethos ist, exmplarisch erklärt anhand unseres RR Board Beispiels
 
 ## Währet den Anfängen
 
