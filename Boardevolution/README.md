@@ -40,7 +40,7 @@ Die Geschichte beginnt zu einem Zeitpunkt, an dem wir alle irgendwie unzufrieden
 
 # Ermittle unintuitive Verhaltensweisen und kenne deine Verantwortungsgrenzen
 
-![alt text](Boardevolution/Grafiken/AltesBoard.png)
+![alt text](Grafiken/AltesBoard.png)
 
 Die von uns abzuarbeitenden Aufgaben sind unterschiedlich groß: Mal müssen wir fünf Minuten Aufwand in die Umsetzung aufbringen, mal werden zwei Leute drei Wochen gebunden. Jede dieser Aufgaben wird vom Team in kleinere Häppchen aufgeteilt, sodass bei mittlerem und größerem Umfang prinzipiell mehr als nur eine Person daran arbeiten kann. Diese kleinen Happen wandern durch die Spalten von links nach rechts. ```ToDo ``` ist das Sammelbecken für die noch zu erledigenden Tasks, die Karten in ```In Progress ``` werden gerade beackert und ```QA``` bedeutet, dass ein Kollege seine Arbeit geprüft haben möchte. Dann gibt es ```ONHOLD``` für Dinge, die gerade aus Gründen nicht weitergehen können. Wenn wir gerade auf eine Abnahme des Kunden für einzelne Dinge warten, kommt es in die Spalte ```Customer QA ```. Und am Ende ist alles ```Done```.
 
