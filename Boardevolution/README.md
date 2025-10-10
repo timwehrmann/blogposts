@@ -13,37 +13,34 @@
   - [x] dass man auch die Verantwortung dafür übernehmen wollte
 
 - Direkte Folgen:
-  - [ ] man stolpert häufiger über kleine Probleme und Baustellen, findet die viel schneller
-  - [ ] Kommunikation ist improved, weil wir mehr über das Zusammenarbeiten sprechen (Kunde und untereinander), Gesprächsöffner
-  - [ ] Walk the board geht viel besser
+  - [*] man stolpert häufiger über kleine Probleme und Baustellen, findet die viel schneller
+  - [*] Kommunikation ist improved, weil wir mehr über das Zusammenarbeiten sprechen (Kunde und untereinander), Gesprächsöffner
+  - [*] Walk the board geht viel besser
 
 - Ausblick:
-  - [ ] da ist kein Ende, es geht immer weiter mit dem Prozess
-  - [ ] kleinere / besser aufgeteilte Issues
-  - [ ] mehr "Für seine Prozesse einstehen" zur Kundenseite
+  - [x] da ist kein Ende, es geht immer weiter mit dem Prozess
+  - [x] kleinere / besser aufgeteilte Issues
 
 # Draft: Gute catchy Überschrift finden, sowas wie z.B. ""
 
 ## Einleitung (diese Überschrift entfällt und kommt direkt nach der Überschrift)
 
-Schön, dass du dich für diesen Erfahrungsbericht interessierst. Ich will gar nicht viel vorwegnehmen, aber das letzte halbe Jahr war für uns als Team echt spannend und hat uns einen gewaltigen Schritt nach vorne gebracht. :)
+Schön, dass du dich für diesen Erfahrungsbericht interessierst. Im Kern geht es um Verantwortung und Freiheit, es geht um Unzufriedenheit und Frustration. Es geht vor allem um das Gefühl, dass wir als Team stark genug sind, den nie enden wollenden Berg an auf uns einprasselnden Aufgaben entgegentreten zu können, egal wie übermächtig groß ebenjener Berg auch mal scheinen vermag. Diese Reise ging über das letzte halbe Jahr und es hat uns mehr als nur einen Schritt nach vorne gebracht. :)
 
-Der Ursprung dessen ist dabei so schlicht, sodass kein Coach dieser Welt dazu eine Story auf Instagram posten würde: Wir haben unser Board umorganisiert, über das wir unsere Arbeit visualisieren. Die ganzen Effekte, die das aber mit sich gebracht hat, haben wir alle zu Beginn nicht kommen sehen:
+Der Startpunkt dieser Reise ist dabei so schlicht, dass kein Coach dieser Welt dazu eine Story auf Instagram posten würde: Wir haben unser Board umorganisiert, über das wir unsere Arbeit visualisieren. Die ganzen Effekte, die das aber mit sich bringt, haben wir alle zu Beginn nicht kommen sehen:
 * wir können Stolpersteine und Probleme viel einfacher identifizieren
 * wir sind offener und effektiver in unserer Kommunikation geworden
 * unsere (täglichen) Abstimmungsmeetings sind drastisch effizienter geworden
 
-Im Kern geht es um Verantwortung und Freiheit, es geht um Unzufriedenheit und Frustration. Es geht aber vor allem um das Gefühl, dass wir als Team stark genug geworden sind, den nie enden wollenden Berg an auf uns einprasselnden Aufgaben entgegentreten zu können, egal wie übermächtig groß ebenjener Berg auch mal scheinen vermag.
-
 ## Der Motor für Veränderung ist das Streben nach (positiver) Faulheit
 
-Die Geschichte beginnt zu einem Zeitpunkt, an dem wir alle irgendwie unzufrieden sind mit der Art und Weise, wie wir kollaborativ unsere Aufgaben, Stories und Issues abarbeiten. Es schwelte diffus unter der Oberfläche, ohne dass wir es klar benennen konnten. Unsere Arbeit plätschert rein, wie sie es schon immer getan hat und unsere Visualisierung wurde irgendwann mal bestimmt und hat sich seitdem nicht großartig verändert. Mitarbeiter sind gekommen und gegangen, aber die Prozesse blieben gleich. Wir als Team haben für uns beschlossen, dass wir aktiv werden und etwas verändern müssen. Das war nicht einfach: Schließlich gilt es, möglichst viele Köpfe mit zum Teil diametral zueinander liegenden Meinungen zu Kompromissen zu bewegen und letztlich unter einen Hut zu bekommen. Am Ende eint uns eine Tatsache: Wir wollen einen einfachen, am besten selbsterklärend-natürlichen Workflow, bei dem man sich nicht den Kopf zerbrechen muss.
+Man kann es mit einer Zugfahrt vergleichen, die am Bahnhof Unzufriedenheit beginnt: Irgendwie finden wir alle die Art und Weise ineffektiv, wie wir kollaborativ unsere Aufgaben, Stories und Issues abarbeiten. Es schwelt diffus unter der Oberfläche, ohne dass wir es klar benennen können. Unsere Arbeit plätschert rein, wie sie es schon immer getan hat und unsere Visualisierung wurde irgendwann mal bestimmt und hat sich seitdem nicht großartig verändert. Mitarbeiter kommen und gehen, die Prozesse aber bleiben. Wir als Team haben an dieser Haltestelle beschlossen, dass wir aktiv werden und etwas verändern müssen. Das ist nicht einfach; schließlich gilt es, möglichst viele Köpfe mit zum Teil diametral zueinander liegenden Meinungen zu Kompromissen zu bewegen und letztlich unter einen Hut zu bekommen. Auf eine einende Tatsache können wir uns aber immer berufen: Wir wollen einen einfachen, am besten selbsterklärend-natürlichen Workflow, bei dem man sich nicht den Kopf zerbrechen muss.
 
 # Ermittle unintuitive Verhaltensweisen
 
 ![alt text](Grafiken/AltesBoard.png)
 
-Die von uns abzuarbeitenden Aufgaben sind unterschiedlich groß: Mal müssen wir fünf Minuten Aufwand in die Umsetzung aufbringen, mal werden zwei Leute drei Wochen gebunden. Jede dieser Aufgaben wird vom Team in kleinere Häppchen (= Subtasks) aufgeteilt, damit wir strukturiert und planvoll die Aufgabe abarbeiten können. Das hat den positiven Nebeneffekt, dass bei mittlerem und größerem Aufgabenumfang bei sinnvoller Aufteilung prinzipiell mehr als nur eine Person parallel daran arbeiten kann. Diese kleinen Happen wandern durch die Spalten von links nach rechts. ```ToDo ``` ist das Sammelbecken für die noch zu erledigenden Tasks, die Karten in ```In Progress ``` werden gerade beackert und ```QA``` bedeutet, dass ein Kollege seine Arbeit geprüft haben möchte. Dann gibt es ```ONHOLD``` für Dinge, die gerade aus mannigfaltigen Gründen nicht weitergehen können. Wenn wir gerade auf eine Abnahme des Kunden für einzelne Dinge warten, kommt es in die Spalte ```Customer QA ```. Und am Ende ist alles ```Done```.
+Während wir uns in Bewegung zum nächsten Halt setzen, müssen wir uns den Status Quo vor Augen führen. Die von uns abzuarbeitenden Aufgaben sind unterschiedlich groß: Mal müssen wir fünf Minuten Aufwand in die Umsetzung aufbringen, mal werden zwei Leute drei Wochen gebunden. Jede dieser Aufgaben wird vom Team in kleinere Häppchen (= Subtasks) aufgeteilt, damit wir strukturiert und planvoll die Aufgabe abarbeiten können. Das hat den positiven Nebeneffekt, dass bei mittlerem und größerem Aufgabenumfang bei sinnvoller Aufteilung prinzipiell mehr als nur eine Person parallel daran arbeiten kann. Diese kleinen Happen wandern durch die Spalten von links nach rechts. ```ToDo ``` ist das Sammelbecken für die noch zu erledigenden Tasks, die Karten in ```In Progress ``` werden gerade beackert und ```QA``` bedeutet, dass ein Kollege seine Arbeit geprüft haben möchte. Dann gibt es ```ONHOLD``` für Dinge, die gerade aus mannigfaltigen Gründen nicht weitergehen können. Wenn wir gerade auf eine Abnahme des Kunden für einzelne Dinge warten, kommt es in die Spalte ```Customer QA ```. Und am Ende ist alles ```Done```.
 
 Dieses Board steht in mehreren Punkten im Widerspruch zu unserer gelebten Realität:
 * der Kunde interessiert sich nicht für einzelne Bausteine, er will die Aufgabe in Summe abnehmen
@@ -55,13 +52,13 @@ Dieses Board steht in mehreren Punkten im Widerspruch zu unserer gelebten Realit
 
 ## Mach dir die Welt, wie sie gelebt wird
 
-Das bestehende Board läuft also an unseren Arbeitsweisen vorbei, hier steckt also ein gutes Improvement. Das Erkennen dessen und der Wunsch, hier eine Verbesserung anzugehen wurde dabei nicht "von oben" gesteuert, sondern hat sich aus unserer Autonomie heraus entwickelt. Wir sind frei in unserer Workflow-Gestaltung und konnten uns somit auf der grünen Wiese überlegen, wie wir unsere Arbeit sinnvoll gemeinsam organisieren. Dem haben wir uns gestellt: Wir können jetzt entweder unsere Arbeitsweise an das Board anpassen, was mutmaßlich der schwierige Weg ist. Daher passen wir das Board an unsere Arbeitsweise an, was den Nebeneffekt hat, dass wir unsere Workflows aktiv zu reflektieren beginnen. Das Outcome kann sich sehen lassen:
+Wir haben also den Bahnhof der Erkenntnis erreicht: Das bestehende Board läuft also an unseren Arbeitsweisen vorbei, hier steckt also ein gutes Improvement. Wir sind frei in unserer Workflow-Gestaltung und können uns somit auf der grünen Wiese überlegen, wie wir unsere Arbeit sinnvoll gemeinsam organisieren. Der eine Weg ist, dass wir unsere Arbeitsweise an das Board anpassen, was mutmaßlich der schwierige Weg ist. Der andere Weg ist, dass wir das Board an unsere Arbeitsweise anpassen. Das hat den Nebeneffekt, dass wir unsere Workflows aktiv zu reflektieren beginnen. Das Outcome kann sich sehen lassen:
 
 ![alt text](Grafiken/NeueBoards.png)
 
 ## Oh du schöne neue Zwei-Board-Welt
 
-Die größte Veränderung war das Aufteilen in zwei Boards: Dem Umsetzungs- und dem Übersichtsboard. Beginnen wir mit dem Umsetzungsboard, das die Evolution der bestehenden Visualisierung ist:
+Der nächste Halt ist schnell erreicht, denn die Umstrukturierung ging schnell. Die größte Veränderung war das Aufteilen in zwei Boards: Dem Umsetzungs- und dem Übersichtsboard. Beginnen wir mit dem Umsetzungsboard, bei dem es sich um die Evolution aus der bis dato bestehenden Visualisierung handelt:
 
 Die erste Vereinfachung ist das Streichen der Spalte ```Customer Feedback```: Diese Eigenschaft brauchen wir logisch betrachtet auf der Aufgabe, nicht auf unseren Subtasks. Die zweite Vereinfachung ist das Streichen der Spalte ```ONHOLD``` und das Integrieren dieses Zustands in die einzelnen anderen Spalten (exklusive ```Done```): Das führt dazu, dass ein Subtask seinen Zustand behält, aber gleichzeitig als geblockt markiert werden kann. Damit ist unser Umsetzungsboard in Handhabung und Übersicht drastisch verbessert.
 
@@ -74,12 +71,18 @@ Für die Ebene der Aufgaben haben wir das zweite Board erfunden mit den Spalten,
 6. Bekommen wir hingegen ein positives Feedback, wandert es weiter in ```Ready For Release```. Sie verweilen hier so lange, bis der Kunde die Aufgabe in das Produktionssystem ausgerollt haben möchte.
 7. Wenn die Aufgabe dann abgeschlossen wurde, bleibt nur noch der Gang in die ```Done```-Spalte zu tun.
 
-## Pain-Points und die Akzeptanz von Unveränderlichkeiten
+## Grenzen der Verantwortung schärfen
 
-Wir mussten auf unserer Seite lernen, dass einige Dinge außerhalb unserer Team-Verantwortung liegen. Wir wollen, dass Dinge von der ersten bis zur letzten Spalte schnell und umkompliziert wabern. Wir können aber weder die Dinge in ```Customer Feedback``` noch die Dinge in ```Up Next``` als Team beeinflussen: Wann ein Kunde unsere fertiggestellten Aufgaben abnimmt, entscheidet allein er. Wenn es nach uns geht, am liebsten sofort. Aber es kann eben auch eine lange Zeit dauern. Dasselbe gilt für den Anfang des Boards: Wenn ein Kunde kurzfristig seine Prioritäten umwirft, dann können wir par excellence als Team darauf reagieren. Allerdings müssen sowohl wir Umsetzer als auch der PM darauf pochen, dass unser Workflow bei aller Kurzfristig- und Dringlichkeit dennoch eingehalten und keine Abkürzung gegangen wird.
+Wir mussten auf unserer Seite lernen, dass einige Dinge außerhalb unserer Team-Verantwortung liegen. Wir wollen, dass Dinge von der ersten bis zur letzten Spalte schnell und unkompliziert durchfließen.
 
-Es ist im Prinzip egal, ob eine Anfrage von uns intern kommt (z.B. für Improvements) oder ob eine Aufgabe vom Kunden kommt. Eine Anfrage kann als E-Mail, über einen Anruf oder per Brieftaube reinkommen: Je mehr gleichberechtigt auf dem Board repräsentiert wird, desto besser können sie unter- und zueinander priorisiert werden. Das ist stets ein Jonglieren zwischen dem Kunden, der seine Tasks und Stories fertig wissen möchte und uns als Team, das für Verbesserungen Zeit eingeräumt benötigt.
+Wir können aber kaum die Dinge in ```Customer Feedback``` beeinflussen: Wann ein Kunde unsere fertiggestellten Aufgaben abnimmt, entscheidet allein er. Wenn es nach uns geht, am liebsten sofort. Aber es kann eben auch eine lange Zeit dauern.
+
+Begrenzt ist unser Einfluss als Umsetzer ebenfalls auf ```Up Next```: Wir können dafür sorgen, dass so viele Aufgaben wie möglich als Karte auf unserem Board erfasst werden. Das können interne Verbesserungen sein, es können Featurewünsche oder Bugmeldungen von unseren Kunden sein. Es kann sein, dass wir etwas per Anruf entgegennehmen, es kann uns auch eine Brieftaube erreichen. Je mehr Aufgaben gleichberechtigt auf dem Board eingepflegt werden, desto besser können sie unter- und zueinander priorisiert werden. Wenn jetzt aber kurzfristig Prioritäten umgeworfen werden, dann ist das jenseits von unserem Einfluss. Wir haben uns aber über die Boardanpassung die Möglichkeit geschaffen, dass wir flexibel auf solche Fälle reagieren können.
 
 ## Währet den Anfängen
 
-#TODO: Regelmäßig ins Gedächtnis rufen, warum Dinge so sind, wie sie sind und prüfen, ob es noch aktuell ist. Beispiele für Routinen geben (z.B. "Schaut euch einen Prozessschritt in jedem Daily an: Passt der Spaltenübergang von A nach B noch? Ist das Wording "Development" für die Umsetzungsspalte noch sinnvoll? …")
+Dabei ist das Board nicht der eigentliche Grund für unsere Flexibilität: Die Umstellung der Visualisierung unserer Arbeit hat dafür gesorgt, dass wir uns aktiv über unsere Prozesse auszutauschen - und das ist der eigentliche Gewinn. Unser Mindset hat sich geschärft dahingehend, dass jeder einzelne die (zumeist kleineren) Baustellen schneller identifizieren kann. Wir reden (und streiten) viel mehr über das, was uns links und rechts von der eigentlichen Arbeit aufhält und überlegen uns sinnvolle Lösungen dafür, wie wir unser Leben noch einfacher gestalten können. Und wir können dank des übersichtlichen aktuellen Doings viel effektiver unser **Walk The Board** gestalten.
+
+In regelmäßigen Meetings stellen wir den erreichten Status Quo auf den Prüfstand und schauen, wo wir den aktuellen Stand unseres Workflows aus- oder abbauen müssen. Routinen, die nicht mehr zu unserer Arbeitsweise passen, werden rausgestrichen. Wir haben Potenziale identifiziert darin, wie wir den Kunden aktiv an unserem Prozess teilhaben können. Andere Verbesserungen sind eine möglichst normalisierte Größe der Aufgaben oder eine Präzisierung der Spaltenübergangs-Definitionen.
+
+No size fits all - #TODO.
