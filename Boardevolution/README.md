@@ -13,9 +13,9 @@
   - [x] dass man auch die Verantwortung dafür übernehmen wollte
 
 - Direkte Folgen:
-  - [*] man stolpert häufiger über kleine Probleme und Baustellen, findet die viel schneller
-  - [*] Kommunikation ist improved, weil wir mehr über das Zusammenarbeiten sprechen (Kunde und untereinander), Gesprächsöffner
-  - [*] Walk the board geht viel besser
+  - [x] man stolpert häufiger über kleine Probleme und Baustellen, findet die viel schneller
+  - [x] Kommunikation ist improved, weil wir mehr über das Zusammenarbeiten sprechen (Kunde und untereinander), Gesprächsöffner
+  - [x] Walk the board geht viel besser
 
 - Ausblick:
   - [x] da ist kein Ende, es geht immer weiter mit dem Prozess
