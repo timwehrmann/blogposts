@@ -13,24 +13,26 @@
   - [x] dass man auch die Verantwortung dafür übernehmen wollte
 
 - Direkte Folgen:
-  - [*] man stolpert häufiger über kleine Probleme und Baustellen, findet die viel schneller
-  - [*] Kommunikation ist improved, weil wir mehr über das Zusammenarbeiten sprechen (Kunde und untereinander), Gesprächsöffner
-  - [*] Walk the board geht viel besser
+  - [x] man stolpert häufiger über kleine Probleme und Baustellen, findet die viel schneller
+  - [x] Kommunikation ist improved, weil wir mehr über das Zusammenarbeiten sprechen (Kunde und untereinander), Gesprächsöffner
+  - [x] Walk the board geht viel besser
 
 - Ausblick:
   - [x] da ist kein Ende, es geht immer weiter mit dem Prozess
   - [x] kleinere / besser aufgeteilte Issues
 
 # Draft: Gute catchy Überschrift finden, sowas wie z.B. ""
+Schön, dass du dich für diesen Erfahrungsbericht interessierst. Im Kern geht es um Verantwortung und Freiheit, es geht um Unzufriedenheit und Frustration. Es geht vor allem um das Gefühl, dass wir als Team stark genug geworden sind, den nie enden wollenden Berg an auf uns einprasselnden Aufgaben guten Gewissens entgegentreten zu können, egal wie übermächtig groß ebenjener Berg auch mal scheinen vermag. Diese Reise ging über das letzte halbe Jahr und es hat uns mehr als nur einen Schritt nach vorne gebracht. :)
 
-Schön, dass du dich für diesen Erfahrungsbericht interessierst. Im Kern geht es um Verantwortung und Freiheit, es geht um Unzufriedenheit und Frustration. Es geht vor allem um das Gefühl, dass wir als Team stark genug sind, den nie enden wollenden Berg an auf uns einprasselnden Aufgaben entgegentreten zu können, egal wie übermächtig groß ebenjener Berg auch mal scheinen vermag. Diese Reise ging über das letzte halbe Jahr und es hat uns mehr als nur einen Schritt nach vorne gebracht. :)
+AND status NOT IN ("OBSOLET", "Done", "Ready For Release", "Customer Feedback")
+Schön, dass du dich für diesen Erfahrungsbericht interessierst. Im Kern geht es um Verantwortung und Freiheit, es geht um Unzufriedenheit und Frustration. Es geht vor allem um das Gefühl, dass wir als Team stark genug geworden sind, den nie enden wollenden Berg an auf uns einprasselnden Aufgaben entgegentreten zu können, egal wie übermächtig groß ebenjener Berg auch mal scheinen vermag. Diese Reise ging über das letzte halbe Jahr und es hat uns mehr als nur einen Schritt nach vorne gebracht. :)
 
 Der Startpunkt dieser Reise ist dabei so schlicht, dass kein Coach dieser Welt dazu eine Story auf Instagram posten würde: Wir haben unser Board umorganisiert, über das wir unsere Arbeit visualisieren. Die ganzen Effekte, die das aber mit sich bringt, haben wir alle zu Beginn nicht kommen sehen:
 * wir können Stolpersteine und Probleme viel einfacher identifizieren
 * wir sind offener und effektiver in unserer Kommunikation geworden
 * unsere (täglichen) Abstimmungsmeetings sind drastisch effizienter geworden
 
-## Unser Motor für Veränderung ist das Streben nach Fokus
+## Unser Motor für Veränderung ist das Streben nach Einfachheit
 
 Man kann es mit einer Zugfahrt vergleichen, die am Bahnhof Unzufriedenheit beginnt: Irgendwie finden wir alle die Art und Weise ineffektiv, wie wir kollaborativ unsere Aufgaben, Stories und Issues abarbeiten. Es schwelt diffus unter der Oberfläche, ohne dass wir es klar benennen können. Unsere Arbeit plätschert rein, wie sie es schon immer getan hat und unsere Visualisierung wurde irgendwann mal bestimmt und hat sich seitdem nicht großartig verändert. Mitarbeiter kommen und gehen, die Prozesse aber bleiben. Wir als Team haben beschlossen, dass wir aktiv werden und etwas verändern müssen. Das ist nicht einfach; schließlich gilt es, möglichst viele Köpfe mit zum Teil diametral zueinander liegenden Meinungen zu Kompromissen zu bewegen und letztlich unter einen Hut zu bekommen. Auf eine einende Tatsache können wir uns aber immer berufen: Wir wollen einen einfachen, am besten selbsterklärend-natürlichen Workflow, bei dem man sich nicht den Kopf zerbrechen muss.
 
@@ -48,21 +50,23 @@ Dieses Board steht in mehreren Punkten im Widerspruch zu unserer gelebten Realit
 * die einzelnen Subtasks müssen, sobald sie geblockt werden, gegen den Strom nach links verschoben werden und verlieren obendrein ihren Status
 * den Zustand der Aufgabe kann man nur anhand des auf der Aufgabe gesetzten Status ermitteln, es gibt keine andere optische Zuordnung, was dazu führt, dass wir tagtäglich die Reihenfolge der Aufgaben auf dem Board dem jeweiligen Status anpassen mussten, damit eine Übersicht gegeben ist
 
-## Mach dir die Welt, wie sie gelebt wird
+## Mach dir die Welt, wie sie wirklich gelebt wird
 
-Wir haben also den Bahnhof der Erkenntnis erreicht: Das bestehende Board läuft also an unseren Arbeitsweisen vorbei, hier steckt also ein gutes Improvement. Wir sind frei in unserer Workflow-Gestaltung und können uns somit auf der grünen Wiese überlegen, wie wir unsere Arbeit sinnvoll gemeinsam organisieren. Der eine Weg ist, dass wir unsere Arbeitsweise an das Board anpassen, was mutmaßlich der schwierige Weg ist. Der andere Weg ist, dass wir das Board an unsere Arbeitsweise anpassen. Das hat den Nebeneffekt, dass wir unsere Workflows aktiv zu reflektieren beginnen. Das Outcome kann sich sehen lassen:
+Wir haben also den Bahnhof der Erkenntnis erreicht. Das bestehende Board läuft also an unseren Arbeitsweisen vorbei, hier steckt also ein gutes Improvement. Uns wurde von Leuchtfeuer das Vertrauen entgegebengebracht, frei in unserer Workflow-Gestaltung zu sein und können uns somit auf der grünen Wiese überlegen, wie wir unsere Arbeit sinnvoll organisieren. Der eine Weg ist, dass wir uns an das Board anpassen, was mutmaßlich der schwierige Weg ist. Der andere Weg ist, dass wir das Board an uns anpassen. Das hat den Nebeneffekt, dass wir unsere Workflows aktiv zu reflektieren beginnen. Das Outcome kann sich sehen lassen:
 
 ![alt text](Grafiken/NeueBoards.png)
 
 ## Oh du schöne neue Zwei-Board-Welt
 
-Der nächste Halt ist schon wenig später erreicht, denn die Umstrukturierung ging schnell. Die größte Veränderung war das Aufteilen in zwei Boards. Beginnen wir mit dem **Developmentboard**, bei dem es sich um die Evolution aus der bis dato bestehenden Visualisierung handelt:
+Der nächste Halt ist schon wenig später erreicht, denn die Umstrukturierung ließ sich in unserem Projekttool Jira schnell umsetzen. Die größte Veränderung war das Aufteilen in zwei Boards, die jeweils ihren eigenen Fokus haben. Beginnen wir mit dem **Developmentboard**, bei dem es sich um die Evolution aus der bis dato bestehenden Visualisierung handelt:
 
 Die erste Vereinfachung ist das Streichen der Spalte ```Customer Feedback```: Diese Eigenschaft brauchen wir logisch betrachtet auf der Aufgabe, nicht auf unseren Subtasks. Die zweite Vereinfachung ist das Streichen der Spalte ```ONHOLD``` und das Integrieren dieses Zustands in die einzelnen anderen Spalten (exklusive ```Done```): Das führt dazu, dass ein Subtask seinen Zustand behält, aber gleichzeitig als geblockt markiert werden kann. Damit ist unser Umsetzungsboard in Handhabung und Übersicht drastisch verbessert.
 
+Das zweite Board, unser Übersichtsboard, löst das Problem, dass uns der Gesamtüberblick über die Summe unserer Issues fehlt. Hier kommen links und rechts von unserer Umsetzung dem Kanbansprech nach nun der Up- und Downstream hinzu, der sich in folgende Spalten aufgliedert:
+
 Für die Ebene der Aufgaben haben wir das zweite Board erfunden mit den Spalten, die unserem tatsächlichen Vorgehen entsprechen, das **Overviewboard**:
 1. Die Aufgaben liegen zu Beginn nach Wichtigkeit vom PM (oder PO/Teamlead/…) sortiert in der ersten Spalte namens ```Up Next```.
-2. Zu gegebenen Anlässen holen wir uns als Team ein Set an Aufgaben in ```Preparation``` und schauen uns diese an, bevor wir mit der tatsächlichen Umsetzung beginnen. Wir klären erste Fragen und Unklarheiten mit dem Kunden, die während des Kunde-PM-Austauschs nicht geklärt werden konnten (oder nicht gesehen wurden). Somit sorgen wir dafür, dass wir die Aufgabe flüssig ohne Unterbrechungen umsetzen können.
+2. Zu gegebener Zeit holen wir uns als Team ein Set an Aufgaben in ```Preparation``` und schauen uns diese an, bevor wir mit der tatsächlichen Umsetzung beginnen. Wir klären die für uns offenen Fragen und Unklarheiten, die während des Kunde-PM-Austauschs nicht aufgefallen sind. Somit sorgen wir dafür, dass wir die Aufgabe flüssig ohne Unterbrechungen umsetzen können.
 3. Alles fertig Konzipierte wandert in die kommende Spalte ```Ready For Development```.
 4. Wenn ein Teammitglied auf dem Umsetzungsboard nun keine Aufgabe findet, bedient er sich aus diesem Pool der vorbereiteten Aufgaben und zieht es sich in ```Development```. Die tatsächliche Arbeit findet hier dann auf dem Umsetzungsboard statt, auf dem nur noch die Elemente angezeigt werden, die sich auch tatsächlich in der Umsetzung befinden. Das sorgt für eine drastische Reduzierung und eine massiv verbesserte Übersicht über unser tatsächlich stattfindendes Doing und unterstützt somit alle täglichen Planungsmeetings. 
 5. Wenn eine Aufgabe abgeschlossen ist, muss sie dem Kunden zur Abnahme übergeben werden. Die Karte wandert demzufolge in ```Customer Feedback``` und es in Kommunikation über das jeweils kundenindividuelle Medium getreten (E-Mail, Anruf, kundeneigenes Ticketsystem, …). Wichtig ist, dass wir aktiv die Bereitschaft zur Mitarbeit einfordern, die mindestens in einem Abnicken besteht. Je intensiver die Mitarbeit auf Kundenseite jedoch ist, desto besser ist das Resultat der Aufgabe. Bekommen wir jetzt Feedback, das eine Anpassungen benötigt, muss die Aufgabe unseren Zyklus über ```Preparation``` erneut durchlaufen, damit wir als Team uns aktiv vor Scope Creep schützen. Weil wir aber an die Devise "Menschen über Prozesse" glauben, kann bei objektiv feststellbaren Kleinigkeiten diese Regel aber auch übersprungen und ```Preparation``` umgangen werden.
