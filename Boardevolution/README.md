@@ -21,7 +21,7 @@
   - [x] da ist kein Ende, es geht immer weiter mit dem Prozess
   - [x] kleinere / besser aufgeteilte Issues
 
-# Draft: Gute catchy Überschrift finden, sowas wie z.B. ""
+# Draft: Gute catchy Überschrift finden, sowas wie z.B. "Board(r)evolution"
 Schön, dass du dich für diesen Erfahrungsbericht interessierst. Im Kern geht es um Verantwortung und Freiheit, es geht um Unzufriedenheit und Frustration. Es geht vor allem um das Gefühl, dass wir als Team stark genug geworden sind, den nie enden wollenden Berg an auf uns einprasselnden Aufgaben guten Gewissens entgegentreten zu können, egal wie übermächtig groß ebenjener Berg auch mal scheinen vermag. Diese Reise ging über das letzte halbe Jahr und es hat uns mehr als nur einen Schritt nach vorne gebracht. :)
 
 AND status NOT IN ("OBSOLET", "Done", "Ready For Release", "Customer Feedback")
