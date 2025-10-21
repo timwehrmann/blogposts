@@ -4,7 +4,7 @@
   - Kunden mit bisserl Verständnis
 
 - Handwerkliches:
-  - [x] 2–3 Grafiken
+  - [x] 2–2 Grafiken
 
 - Herleitung:
   - [x] Abbildung der Realität, da sind wir viel näher dran
