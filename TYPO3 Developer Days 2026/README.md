@@ -3,7 +3,9 @@
   - Außenwerbung
 
 - Handwerkliches:
-  - [ ] 1–2 Grafiken (nehmen von der offiziellen TYPO3-Seite?)
+  - [ ] 1–2 Grafiken. Anbieten würden sich folgende Bilder von TYPO3 selber, wenn wir die denn benutzen dürfen (Photos gemacht habe ich jz nicht, ist ein Learning für das Berlin-Camp):
+    - https://t3dd26.typo3.com/fileadmin/_processed_/7/f/csm_t3dd26_day3_783_25910d52da.jpeg
+    - https://t3dd26.typo3.com/fileadmin/_processed_/9/0/csm_t3dd26_day2_237_dd99cfc0c9.jpeg
 
 # TYPO3 Developer Days 2026
 
