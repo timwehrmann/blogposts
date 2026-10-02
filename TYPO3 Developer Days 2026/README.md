@@ -1,46 +1,30 @@
-# Notizen
-- Zielgruppe:
-  - Außenwerbung
+# Unsere Eindrücke von den DevDays 2026
 
-- Handwerkliches:
-  - [ ] 1–2 Grafiken. Anbieten würden sich folgende Bilder von TYPO3 selber, wenn wir die denn benutzen dürfen (Photos gemacht habe ich jz nicht, ist ein Learning für das Berlin-Camp):
-    - https://t3dd26.typo3.com/fileadmin/_processed_/7/f/csm_t3dd26_day3_783_25910d52da.jpeg
-    - https://t3dd26.typo3.com/fileadmin/_processed_/9/0/csm_t3dd26_day2_237_dd99cfc0c9.jpeg
+Mit sieben Leuten haben wir uns auf den Weg zu den diesjährigen TYPO3 Developer Days im GenoHotel in Karlsruhe gemacht. Für einige war es das erste Mal, andere sind alt eingesessene DevDays-Gänger. Daher konnten wir als Gruppe auf die guten Erfahrungen des Vorjahres zurückgreifen, sodass wir uns auch dieses Jahr wieder im Premier Inn einquartiert haben. Wir wussten auch, dass wir ob des vor uns liegenden Fußwegs vom Hotel zum Conventionground uns morgens etwas eher auf die Socken machen müssen, damit wir noch einen Platz in den Eröffnungstalks des Tages ergattern können. Das war aber kein Problem, im Gegenteil: Bei schon morgens sommerlich-warmen Temperaturen waren wir sehr froh darüber, der Hitze auf dem Hin- und Rückweg durch das angehmen schattige Wäldchen entkommen zu können, das zwischen uns und dem GenoHotel lag. Angekommen und mit einem kühlen Getränk ausgerüstet haben wir dann überraschen lassen, was die Devdays 2026 für uns zu bieten haben.
 
-# TYPO3 Developer Days 2026
+## Unsere Vorträge
 
-Mit sieben Leuten haben wir uns auf den Weg zu den diesjährigen TYPO3 Developer Days im GenoHotel in Karlsruhe gemacht. Für einige war es das erste Mal, andere sind alt eingesessene DevDays-Gänger. Das Wetter war schon morgens sommerlich heiß und von unserem Quartier, dem Premier Inn, mussten einige Meter zu Fuß zurückgelegt werden. Wir waren daher alle sehr froh, dass wir den größten Teil des Weges zwischen uns und dem Conventionground im Schatten des kleinen Waldstückchens zurücklegen konnten.
+Wir sind eine bunt gemischte Truppe, insofern bringt jeder seine eigenen Gedanken und Interessen mit. Das haben wir uns zunutze gemacht und uns je nach persönlichem Interesse in die Vortragsräume aufgeteilt, sodass wir aus beiden zeitlich parallel stattfindenden Talks die jeweiligen Erkenntnisse haben mitnehmen können. Wir haben uns nebst der Inhalte außerdem notiert, welche Vorträge uns gefallen haben und welche nicht – analog zu der Bewertungsmöglichkeit über die Tablets vor Ort, über die man beim Verlassen eines Talks seine Meinung über einen Daumen hoch oder Daumen kundtun konnte.
 
-# Unsere Vorträge
+Unsere firmeneigene Auswertung ergibt, dass sich im positiven Bereich unserer Bewertungsskala alle Vorträge auf einem Level befanden. Es gab nicht diesen einen "Must see"-Vortrag, sondern jeder hatte seine Momente und stand den übrigen in nichts nach. Zwei Vorträge haben eine Stimme mehr bekommen als der Rest, daher greife ich die als unsere Toppicks heraus:
 
-Wir sind eine bunt gemischte Truppe, insofern bringt jeder seine eigenen Gedanken und Erfahrungen mit. Dort angekommen haben wir uns das zunutze gemacht und je nach persönlichem Interesse in die Vortragsräume aufgeteilt, sodass in beiden zeitlich parallel stattfindenden Slots immer mindestens einer von uns anzutreffen war. Daher ist es nicht überraschend, dass unsere interne Umfrage nach dem besten Talk kunterbunt gemischt ausfällt und es keinen klaren Sieger gibt (man durfte mehr als nur einen Vortrag nennen):
+**Painting With the Web** ist einer der beiden. Die Essenz dessen, was uns vermittelt wurde, ist, dass Designer mehr entwickeln und Entwickler mehr designen sollten. Jeder sollte nebst seines Inselwissens alles ein bisschen verstehen. Das ist keine Neuigkeit, aber gerade in crossfunktionalen Teams eine unabdingbare Voraussetzung für eine exzellente Zusammenarbeit.
 
-| Vortrag                                                               | Stimmen |
-|:----------------------------------------------------------------------|:-------:|
-| Painting With the Web                                                 |    2    |
-| Refactor Like a Pro                                                   |    2    |
-| A Person Is Not a Process                                             |    1    |
-| TYPO3 Is More Than a CMS                                              |    1    |
-| From Search Box to Semantic Brain: Building AI-Native Search in TYPO3 |    1    |
-| From Rags to Riches: How to Get Content From TYPO3 Into Your AI       |    1    |
-| Same Content, Different CMS — Who Does It Better?                     |    1    |
-| Keynote                                                               |   -2    |
+Der zweite Toppick ist **Refactor Like a Pro**. Unser großes Learning ist, dass jeder von uns ein Stück weit die Angst abbauen muss, funktionierenden Bestandscode während des Tagesgeschäfts zu modernisieren. Der Vortrag hat uns aufgezeigt, dass es am einfachsten ist, existierenden Code anzupassen, wenn man etwas links und rechts über den Tellerrand dessen hinausblickt, an dem man gerade programmiert.
 
-Die Essenz von **Painting With the Web** ist, dass Designer mehr entwickeln und Entwickler mehr designen sollten. Jeder sollte nebst seines Inselwissens alles ein bisschen verstehen. Das ist keine Neuigkeit, aber gerade in crossfunktionalen Teams eine unabdingbare Voraussetzung für eine exzellente Zusammenarbeit.
+Wenn es Toppicks gibt, muss man die Frage stellen, ob es auch ein Pendant auf der anderen Seite gibt. Und in der Tat ist ein Talk im negativen Bereich unserer Bewertungsskala gelandet. Ich habe überlegt, ob ich näher darauf eingehen soll, aber sachliche Kritik gehört mit dazu:
 
-Unser großes Learning aus **Refactor Like a Pro** ist, dass jeder von uns ein Stück weit die Angst abbauen muss, funktionierenden Bestandscode während des Tagesgeschäfts zu modernisieren. Der Vortrag hat uns aufgezeigt, dass es am einfachsten ist, existierenden Code anzupassen, wenn man etwas links und rechts über den Tellerrand dessen hinausblickt, an dem man gerade programmiert.
+Wir waren alle enttäuscht von der **Keynote**. Nicht aus handwerklicher Sicht, dahingehend war es der wahrscheinlich beste Talk der Devdays. Aber inhaltlich ist sie sehr blass ausgefallen: Anstatt eines Rückblicks hätten wir uns einen Blick in die Zukunft gewünscht. Es hätte mehr Mitreißen, mehr Heißmachen auf die Devdays als solche gebraucht – stattdessen gab es eine sehr lange Werbung für das Surfcamp, für das wir alle zu alt sind und in Summe zu wenig entwicklerbezogene Themen. Die Einstiegsveranstaltung ist uns schlichtweg diesen "Wow"-Effekt schuldig geblieben, der ein solches mehrtägiges Event prägt.
 
-Eine klare Abfuhr müssen wir der **Keynote** geben. Nicht aus handwerklicher Sicht, dahingehend war es der wahrscheinlich beste Talk der Devdays. Aber inhaltlich ist sie sehr blass ausgefallen: Anstatt eines Rückblicks hätten wir uns einen Ausblick gewünscht und anstatt einer sehr langen Werbung für das Surfcamp wären entwicklerbezogene Themen besser gewesen. Es gab keinen "Wow"-Effekt und es steckte unserer Meinung nach wenig drin, das man mitnehmen konnte.
+## Recap
 
-# Recap
-
-Dieses gewisse fehlende Etwas zieht sich wie ein roter Faden durch das Gro aller Talks. Bei uns hat sich der Eindruck manifestiert, dass diese Devdays eher einen Convention-Charakter hatten, als dass sie dem Motto "Von Entwickler für Entwickler" folgten. Das ist schade, für mich persönlich waren es die ersten Devdays. Da hätte ich mir mehr Innovation, In-Depth und Code gewünscht.
+Dieses gewisse fehlende Etwas zieht sich wie ein roter Faden durch das Gro der von uns besuchten Talks. Bei uns hat sich der Eindruck manifestiert, dass diese 2026er Devdays eher einen Konferenzcharakter hatten, als dass sie dem Motto "Von Entwickler für Entwickler" folgten. Für mich persönlich waren es die ersten Devdays und ich habe mir von den Talks mehr erwartet, ohne dass ich es genauer zu präzisieren vermag. Es ging mir zu wenig um das Coden als solches.
 
 Ich habe leider den Fehler gemacht, den Vorträgen beizuwohnen, obwohl ich vom Typ her mehr aus Hands-on und Diskussionen anstatt aus Frontalvorträge rausziehe. Ich wäre daher wohl deutlich besser bei den vielen Beiträgen vom Campfire aufgehoben gewesen, die genau ebenjenen Barcamp- bzw. unsere firmeninternen Openspace-Charakter auf die Devdays geholt haben.
 
 So oder so stand für mich sowie meine Kollegen ohnehin mehr das Drumherum im Fokus:
 
-Einige von uns haben sich zertifizieren lassen, manche saßen gar in beiden Zertifizierungssessions. So kommt es, dass wir unsere Zertifizierungen verdoppelt haben. Die Prüfung für die bis dato in unserem Portfolio noch fehlende Editor-Zertifizierung konnten wir direkt mehrfach erfolgreich abschließen.
+Einige von uns haben sich zertifizieren lassen, manche saßen gar in beiden Prüfungssessions, die auf den Devdays angeboten wurden. So kommt es, dass wir unsere gültigen Zertifizierungen verdoppelt haben – ein voller Erfolg. Insbesondere hervorzuheben ist, dass wir neben unserem Integratoren- und Developerwissen auch unser Kenntnisse im Bereich der Editoren erfolgreich unter Beweis gestellt haben: Vier bestandene TCCEs bringen wir aus Karlsruhe mit zurück nach Hannover.
 
 Die traditionsreiche Coding Night hat dafür gesorgt, dass wir die Mechaniken und Workflows für die Core-Contribution erlernt haben (siehe auch folgender Blogpost [TODO: Verlinken]).
 
