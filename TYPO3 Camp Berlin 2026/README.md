@@ -27,12 +27,12 @@ Mich hat diese Gesprächsrunde und all die Themen gefesselt. Mir war also klar, 
 
 ![IMG20261017132822.jpg](Grafiken/IMG20261017132822.jpg)
 
-Damit nicht genug: Der letzte Talk des Camps für mich war **Code Contribution in den Core** von Oli Bartsch. Auch hier ging es in Teilen um die neue Struktur, dass die TYPO3 Teams durch die sogenannten Units abgelöst werden und es ist entsprechend in seine Folien bereits eingeflossen. Viel wichtiger aber war, dass man eine sehr gute Anleitung dafür bekommen hat, wie man aktiv in die Tasten haut, um den Code von TYPO3 zu verbessern.
+Damit nicht genug: Der letzte Talk des Camps für mich war **Code Contribution in den Core** von Oliver Bartsch. Auch hier ging es in Teilen um die neue Struktur, dass die TYPO3 Teams durch die sogenannten Units abgelöst werden und es ist entsprechend in seine Folien bereits eingeflossen. Viel wichtiger aber war, dass man eine sehr gute Anleitung dafür bekommen hat, wie man aktiv in die Tasten haut, um den Code von TYPO3 zu verbessern.
 
 ![IMG20261017153245.jpg](Grafiken/IMG20261017153245.jpg)
 
 ## Contribution muss von allen kommen
 
-Das TYPO3 Camp Berlin stand für mich ganz im Zeichen der Teilhabe an TYPO3. Etwas, das ich vorher so nicht erwartet hätte, denn schließlich bin ich fernab davon, in der Community aktiv zu sein. Mal sehen, ob sich das nun ändert – ein Funke ist jedenfalls auf mich übergesprungen. Immerhin habe ich am Freitagabend meine Community-Membership klargemacht und einige Kollegen konnte ich ebenfalls dafür begeistern. Wir bekommen von Leuchtfeuer die Zeit, uns aktiv in die Community einzubringen – insofern wird die Zukunft zeigen, inwiefern aus ebenjenem Funken ein Feuer wird.
+Das TYPO3 Camp Berlin stand für mich ganz im Zeichen der Teilhabe an TYPO3. Etwas, das ich vorher so nicht erwartet hätte, denn schließlich bin ich fernab davon, in der Community aktiv zu sein. Mein besonderer Dank geht an Christoph Laubauch von eCentral, Kai Unterberg von KM2 >>, an Hannes Lau und Oliver Klee für den spannenden Austausch an beiden Tagen. Mal sehen, ob sich das bei mir nun ändert – ein Funke ist jedenfalls schon einmal übergesprungen: Ich habe am Freitagabend meine Community-Membership klargemacht und konnte bereits einige Kollegen ebenfalls dafür begeistern. Wir bekommen von Leuchtfeuer die Zeit, uns aktiv in die Community einzubringen – insofern wird die Zukunft zeigen, ob aus ebenjenem Funken ein Feuer wird. Die Sterne dafür stehen nicht schlecht.
 
 ![IMG20261016191337.jpg](Grafiken/IMG20261016191337.jpg)
